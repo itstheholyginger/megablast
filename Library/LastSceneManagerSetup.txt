@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: C:/Users/Amariah Del Mar/Yarnspinner Practice/Library/PackageCache/dev.yarnspinner.unity@1.2.7/Samples~/Space/Space.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
